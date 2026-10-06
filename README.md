@@ -2,6 +2,8 @@
 
 This repository contains two computational tools for exploring and optimizing synthesizable molecules based on an original molecular skeleton. These tools utilize [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) to evaluate the synthesizability and synthetic routes of the generated mutants.
 
+![SME Performance Results](image/results_comparison.jpg)
+
 ## Tools Overview
 
 
