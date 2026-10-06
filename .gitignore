@@ -1,0 +1,26 @@
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# スクリプトの実行結果・ログ
+rss_results/
+sme_results/
+aizynth_runs/
+*.log
+*.stderr.log
+mutants_results*.jsonl
+summary.csv
+
+# OSが自動生成するファイル
+.DS_Store
+Thumbs.db

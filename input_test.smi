@@ -1,0 +1,11 @@
+ligand_001	CC(C)n1cc(-n2cnc(-c3ccco3)n2)cn1
+ligand_002	Cc1noc(Nc2ncn(-n3nccn3)n2)n1
+ligand_003	CC(C)(C)n1nnc(-c2nnn(C3CC3)n2)c1NN
+ligand_004	Cc1cc(C#N)c(=O)n(-c2nnc(C(=O)O)s2)n1
+ligand_005	CC(C#N)=NNc1cnnc(-n2nnc(C)n2)n1
+ligand_006	C=NNc1nsc(NC(=O)OC(C)(C)C)n1
+ligand_007	Cc1noc(-c2nc(O)n(-c3nncs3)n2)n1
+ligand_008	Cn1c(C#N)nnc1-c1nnc(C(=O)O)s1
+ligand_009	NON1CCC(n2nnc(-c3nccs3)n2)=N1
+ligand_010	Cn1nnc(-c2nc3nnn(C(C)(C)C)n3n2)n1
+
